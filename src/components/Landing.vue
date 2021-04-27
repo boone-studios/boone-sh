@@ -54,7 +54,7 @@
       </div>
 
       <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
-        <p>If you curious as to what we do, or are interested in working with us, visit us on our website at <a href="https://boone.io" rel="nofollow noreferer" target="_blank">https://boone.io</a> or via the phone number below:</p>
+        <p>If you're curious as to what we do, or are interested in working with us, visit us on our website at <a href="https://boone.io" rel="nofollow noreferer" target="_blank">https://boone.io</a> or via the phone number below:</p>
 
         <p>
           <strong>Toll Free:</strong> (601) 550-6560 <br />
