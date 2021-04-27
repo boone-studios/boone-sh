@@ -42,7 +42,7 @@
       </div>
 
       <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
-        <p>To solve this, we chose this ubiquitous domain to act as a resource factory where all of our APIs can utilize this domain as subdomains. By doing this, we solve the following problems:</p>
+        <p>To solve this, we chose this ubiquitous domain to act as a resource factory where all of our APIs can utilize this domain. By doing this, we solve the following problems:</p>
 
         <ul>
           <li>One location to propogate APIs</li>
