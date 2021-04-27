@@ -1,5 +1,5 @@
 <template>
-  <div class="relative py-16 bg-white overflow-hidden">
+  <div class="relative py-16 bg-white dark:bg-gray-800 overflow-hidden">
     <div class="hidden lg:block lg:absolute lg:inset-y-0 lg:h-full lg:w-full">
       <div class="relative h-full text-lg max-w-prose mx-auto" aria-hidden="true">
         <svg class="absolute top-12 left-full transform translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">
@@ -35,13 +35,13 @@
       <div class="text-lg max-w-prose mx-auto">
         <h1>
           <span class="block text-base text-center text-indigo-600 font-semibold tracking-wide uppercase">Introducing</span>
-          <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">API Resource Farm</span>
+          <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl">API Resource Farm</span>
         </h1>
 
-        <p class="mt-8 text-xl text-gray-500 leading-8">We spend 60% of our time building various APIs to work with our products, and many times struggle to stay uniform in choosing endpoint locations.</p>
+        <p class="mt-8 text-xl text-gray-500 dark:text-gray-300 leading-8">We spend 60% of our time building various APIs to work with our products, and many times struggle to stay uniform in choosing endpoint locations.</p>
       </div>
 
-      <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
+      <div class="mt-6 prose prose-indigo prose-lg text-gray-500 dark:text-gray-300 mx-auto">
         <p>To solve this, we chose this ubiquitous domain to act as a resource factory where all of our APIs can utilize this domain. By doing this, we solve the following problems:</p>
 
         <ul>
@@ -53,11 +53,11 @@
         <p>If you have an ongoing or existing project with us, odds are that your API is using this domain.</p>
       </div>
 
-      <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
+      <div class="mt-6 prose prose-indigo prose-lg text-gray-500 dark:text-gray-300 mx-auto">
         <p>If you're curious as to what we do, or are interested in working with us, visit us on our website at <a href="https://boone.io" rel="nofollow noreferer" target="_blank">https://boone.io</a> or via the phone number below:</p>
 
         <p>
-          <strong>Toll Free:</strong> (601) 550-6560 <br />
+          <span class="font-bold dark:text-gray-100">Toll Free:</span> (601) 550-6560 <br />
           Mon thru Fri, 9AM to 5PM (CDT)
         </p>
       </div>
